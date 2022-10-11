@@ -8,7 +8,7 @@
 ### App Walk-though
 
 
-<img src="http://g.recordit.co/0c8CTi5D4u.gif" width=200><br>
+<img src="http://g.recordit.co/CykPT7DeR1.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
