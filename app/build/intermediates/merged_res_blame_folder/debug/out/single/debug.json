@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable_ic_baseline_arrow_circle_down_24.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\drawable\\ic_baseline_arrow_circle_down_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-xxhdpi_iconmonstr_eye_off_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-xxhdpi\\iconmonstr_eye_off_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable_card_background2.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\drawable\\card_background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-xhdpi_iconmonstr_eye_off_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-xhdpi\\iconmonstr_eye_off_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-xxxhdpi_iconmonstr_x_mark_square_multiple_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-xxxhdpi\\iconmonstr_x_mark_square_multiple_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-ldpi_iconmonstr_x_mark_square_multiple_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-ldpi\\iconmonstr_x_mark_square_multiple_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-mdpi_iconmonstr_x_mark_square_multiple_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-mdpi\\iconmonstr_x_mark_square_multiple_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-ldpi_iconmonstr_eye_off_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-ldpi\\iconmonstr_eye_off_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-hdpi_iconmonstr_eye_off_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-hdpi\\iconmonstr_eye_off_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-xxhdpi_ico.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-xxhdpi\\ico.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-ldpi_iconmonstr_eye_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-ldpi\\iconmonstr_eye_lined.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-33:/drawable-xhdpi_iconmonstr_trash_can_thin.png.flat",
+        "source": "com.example.myapplication.app-pngs-28:/drawable-xhdpi/iconmonstr_trash_can_thin.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-33:/drawable-xxxhdpi_iconmonstr_trash_can_thin.png.flat",
+        "source": "com.example.myapplication.app-pngs-28:/drawable-xxxhdpi/iconmonstr_trash_can_thin.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-xxxhdpi_iconmonstr_eye_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-xxxhdpi\\iconmonstr_eye_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-ldpi_ico.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-ldpi\\ico.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-hdpi_iconmonstr_x_mark_square_multiple_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-hdpi\\iconmonstr_x_mark_square_multiple_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-xxxhdpi_iconmonstr_eye_off_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-xxxhdpi\\iconmonstr_eye_off_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-anydpi-v24_iconmonstr_eye_off_lined.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-anydpi-v24\\iconmonstr_eye_off_lined.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-anydpi-v24_iconmonstr_eye_lined.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-anydpi-v24\\iconmonstr_eye_lined.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-xxhdpi_iconmonstr_eye_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-xxhdpi\\iconmonstr_eye_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-xxhdpi_iconmonstr_x_mark_square_multiple_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-xxhdpi\\iconmonstr_x_mark_square_multiple_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-xxxhdpi_ico.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-xxxhdpi\\ico.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-33:/drawable-anydpi-v24_iconmonstr_trash_can_thin.xml.flat",
+        "source": "com.example.myapplication.app-pngs-28:/drawable-anydpi-v24/iconmonstr_trash_can_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-mdpi_iconmonstr_eye_off_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-mdpi\\iconmonstr_eye_off_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-xhdpi_ico.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-xhdpi\\ico.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-33:/drawable-mdpi_iconmonstr_trash_can_thin.png.flat",
+        "source": "com.example.myapplication.app-pngs-28:/drawable-mdpi/iconmonstr_trash_can_thin.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-xhdpi_iconmonstr_x_mark_square_multiple_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-xhdpi\\iconmonstr_x_mark_square_multiple_lined.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-33:/drawable-hdpi_iconmonstr_trash_can_thin.png.flat",
+        "source": "com.example.myapplication.app-pngs-28:/drawable-hdpi/iconmonstr_trash_can_thin.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-anydpi-v24_ico.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-anydpi-v24\\ico.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-33:/drawable-ldpi_iconmonstr_trash_can_thin.png.flat",
+        "source": "com.example.myapplication.app-pngs-28:/drawable-ldpi/iconmonstr_trash_can_thin.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-xhdpi_iconmonstr_eye_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-xhdpi\\iconmonstr_eye_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-hdpi_ico.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-hdpi\\ico.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-mdpi_ico.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-mdpi\\ico.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\layout_activity_add_card.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\layout\\activity_add_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-anydpi-v24_iconmonstr_x_mark_square_multiple_lined.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-anydpi-v24\\iconmonstr_x_mark_square_multiple_lined.xml"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-mdpi_iconmonstr_eye_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-mdpi\\iconmonstr_eye_lined.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-33:/drawable-xxhdpi_iconmonstr_trash_can_thin.png.flat",
+        "source": "com.example.myapplication.app-pngs-28:/drawable-xxhdpi/iconmonstr_trash_can_thin.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable-hdpi_iconmonstr_eye_lined.png.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-28:\\drawable-hdpi\\iconmonstr_eye_lined.png"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-33:\\drawable_ic_baseline_navigate_next_24.xml.flat",
+        "source": "C:\\Users\\omowu\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-35:\\drawable\\ic_baseline_navigate_next_24.xml"
+    }
+]
